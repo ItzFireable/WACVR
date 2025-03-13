@@ -98,3 +98,5 @@ A ``config.json`` file is automatically created in WACVR's root directory on sta
 
 Huge thanks to everyone that helped with this project!
 If you want to add any features or change anything, please commit a pull request. I will accept it as soon as possible!
+
+(changed to get a workflow)
